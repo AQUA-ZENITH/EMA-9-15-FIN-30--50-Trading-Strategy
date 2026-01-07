@@ -1,4 +1,4 @@
-# ZERODHA OPTIONS TRADING BOT
+# EMA-9-15-FIN-30--50-Trading-Strategy
 
 A modular, rule-based options trading bot built using the Zerodha Kite Connect API. The bot scans NIFTY spot data on a 5-minute timeframe and sends option trade alerts via Telegram based on EMA structure, volatility compression, and Fibonacci levels.
 
@@ -139,3 +139,4 @@ LICENSE
 MIT License
 
 Use responsibly. Trade carefully.
+
